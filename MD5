@@ -1,0 +1,11 @@
+54db74a676ee1560dbcb6e1fdc055420 *DESCRIPTION
+4f5c3fecd7cb537a771bc1d3f1d10165 *NAMESPACE
+2b0508e4260507ce4da8d47b98e482b5 *R/ShiftConvolve.R
+2bb8c0f8a37da74a3505d1ecdf202204 *man/ShiftConvolvePoibin.Rd
+ec4397bb7de1a441e255d764c9f654b0 *src/dcpaired.c
+452bd5eb12d2695753bc0408f892111b *src/dcpaired_log.c
+865d3abce376bbee4b26675308069573 *src/fftconv_min.c
+302513f8e350a7730ee404497e0d4f62 *src/init.c
+7fa1c4983a93940538892bcb3c4f763b *src/logsum.c
+c30c0e135100bfae0460dcca42246053 *src/minfft.c
+91609916af66636172a95a68c0b9c612 *src/minfft.h
